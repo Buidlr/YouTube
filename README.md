@@ -1,6 +1,4 @@
-I'm working on content five days a week, and most times I'm iterating to produce a better video. Look here to find the best current version of my videos.
-
-
+Please refer to this page to find the most up-to-date version of any of my videos. I am working to re-make them any time something is out of date.
 
 |Date|Link|Status|
 |----|-----|-----|
