@@ -2,7 +2,7 @@
 
 Please refer to this page to find the most up-to-date version of any of video I've developed.
 
-|Date|Client Name|Installation Method|Link|Status|
+|Date|Client Name|Installation Method|Video|Status|
 |----|-----|-----|-----|-----|
 |2020-02-27|Lighthouse|Docker|[Ethereum 2 Lighthouse Beacon Chain and Validator Installation using Docker](https://youtu.be/fRQ-uVTfP-I)|Current|
 |2020-02-25|Prysmatic|Docker|[Ethereum 2 Prysmatic Beacon Chain and Validator Installation using Docker](https://www.youtube.com/watch?v=zN_tds2-vDk)|Current|
