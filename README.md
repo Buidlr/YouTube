@@ -4,6 +4,7 @@ Please refer to this page to find the most up-to-date version of any of video I'
 
 |Date|Client Name|Installation Method|Video|Status|
 |----|-----|-----|-----|-----|
+|2020-04-27|Ethdo/Metamask|snap/go/firefox|[Sending a deposit to the multiclient testnet using Ethdo and Metamask](https://youtu.be/h5wMNLyZCA4)|Current
 |2020-04-24|ethdo (wallet manager)|snap/go|[Ethdo Ethereum 2 wallet manager walkthrough](https://www.reddit.com/r/ethstaker/comments/g7m5rm/i_recorded_my_session_while_i_learned_to_use_the/)|Current|
 |2020-02-27|Lighthouse|Docker|[Ethereum 2 Lighthouse Beacon Chain and Validator Installation using Docker](https://youtu.be/fRQ-uVTfP-I)|Current|
 |2020-02-25|Prysmatic|Docker|[Ethereum 2 Prysmatic Beacon Chain and Validator Installation using Docker](https://www.youtube.com/watch?v=zN_tds2-vDk)|This repo is not maintained.|
